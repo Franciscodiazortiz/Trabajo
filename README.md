@@ -1,1 +1,1 @@
-aplicación de lo aprendido en Githud
+Aplicación de lo aprendido en Githud

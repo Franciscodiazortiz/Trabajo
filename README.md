@@ -1,1 +1,1 @@
-grupo 6
+aplicación de lo aprendido en Githud
